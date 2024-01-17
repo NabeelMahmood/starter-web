@@ -2,6 +2,10 @@
  
 This repository is for showing how Git and GitHub work
 
+## Adding Introduction Section
+
+Now we are going to add the introduction section.
+
 ## Purpose
 
 Sample website with plenty of files for demos
