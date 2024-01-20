@@ -13,3 +13,6 @@ Sample website with plenty of files for demos
 ## Deployment
 
 Adding the details for Deployment
+
+## New Heading
+This is for comparison betweeen two branches Example
