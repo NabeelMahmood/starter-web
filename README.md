@@ -19,3 +19,7 @@ This is for comparison betweeen two branches Example
 
 ## New Heading 02
 Now we are adding new Heading
+
+### Copyright
+
+Git Training for now 2024
