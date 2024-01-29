@@ -23,3 +23,6 @@ Now we are adding new Heading
 ### Copyright
 
 Git Training for now 2024
+
+### How To
+Please fork this repo
