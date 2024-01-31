@@ -29,3 +29,6 @@ Please fork this repo
 
 ### New Heading for Rebase Example
 This is the paragraph data, Now I am going to extend the line
+
+### Add New Headiong
+New Heading for stashing
