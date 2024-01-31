@@ -26,3 +26,6 @@ Git Training for now 2024
 
 ### How To
 Please fork this repo
+
+### New Heading for Rebase Example
+This is the paragraph data
